@@ -35,10 +35,6 @@ cd huehunt
 
 5. The background color of the page will change, and the generated color code will be displayed. You can also copy the color code to your clipboard by clicking the button.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 The project is inspired by various color exploration tools and tutorials available online.
